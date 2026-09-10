@@ -30,6 +30,7 @@
     <None Update="config\settings.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <None Update="Localization/*.json" CopyToOutputDirectory="PreserveNewest" />
     <None Update="LICENSE">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
